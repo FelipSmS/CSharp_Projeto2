@@ -69,3 +69,9 @@ industria.AdicionarLinhaProducao(linhaProducao1);
 industria.AdicionarLinhaProducao(linhaProducao2);
 
 industria.ExibirInformacao();
+
+produto1.AtualizaValor(0.70m);
+produto2.AtualizaValor(6.32m);
+
+
+

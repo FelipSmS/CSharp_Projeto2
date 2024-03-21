@@ -12,3 +12,4 @@ E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\refint\CSharp_Projeto2.dll
 E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.pdb
 E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.genruntimeconfig.cache
 E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\ref\CSharp_Projeto2.dll
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.sourcelink.json

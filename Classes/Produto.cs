@@ -18,7 +18,14 @@ namespace CSharp_Projeto2
 
         public void AtualizaValor(decimal novoPreco)
         {   
+            Console.WriteLine("");
+            Console.WriteLine("************ALTERANDO VALOR************");
+            Console.WriteLine("");
+            Console.WriteLine($"PRECO ANTERIOR: {Preco}");
             this.Preco = novoPreco;
+            Console.WriteLine($"PRECO ATUAL: {Preco}");
+
+
         }
     }
 }
