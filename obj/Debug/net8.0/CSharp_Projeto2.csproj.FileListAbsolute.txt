@@ -1,0 +1,14 @@
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.AssemblyInfoInputs.cache
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.AssemblyInfo.cs
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.csproj.CoreCompileInputs.cache
+E:\Faculdade\CSharp_Projeto2\bin\Debug\net8.0\CSharp_Projeto2.exe
+E:\Faculdade\CSharp_Projeto2\bin\Debug\net8.0\CSharp_Projeto2.deps.json
+E:\Faculdade\CSharp_Projeto2\bin\Debug\net8.0\CSharp_Projeto2.runtimeconfig.json
+E:\Faculdade\CSharp_Projeto2\bin\Debug\net8.0\CSharp_Projeto2.dll
+E:\Faculdade\CSharp_Projeto2\bin\Debug\net8.0\CSharp_Projeto2.pdb
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.dll
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\refint\CSharp_Projeto2.dll
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.pdb
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\CSharp_Projeto2.genruntimeconfig.cache
+E:\Faculdade\CSharp_Projeto2\obj\Debug\net8.0\ref\CSharp_Projeto2.dll
